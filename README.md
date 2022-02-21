@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming languages.
 - 🌱 I’m currently building php, angular, and python apps.
 - 💞️ I’m looking to collaborate on creating interesting projects.
-- 📫 Reach me @ rafei@ymail.com.
+- 📫 Reach me @ majid@rafei.me.
 
 <!---
 majid-rafei/majid-rafei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
