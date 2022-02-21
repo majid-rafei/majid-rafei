@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majid-rafei
+- 👋 Hi, I’m Majid Rafei
 - 👀 I’m interested in learning new programming languages.
 - 🌱 I’m currently building php, angular, and python apps.
 - 💞️ I’m looking to collaborate on creating interesting projects.
