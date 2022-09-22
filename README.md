@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Majid Rafei
 - 👀 I’m interested in learning new programming languages.
-- 🌱 I’m currently building php, angular, and python apps.
+- 🌱 I’m currently building nodejs, typescript, php, angular, and python apps.
 - 💞️ I’m looking to collaborate on creating interesting projects.
 - 📫 Reach me @ majid@rafei.me.
 
